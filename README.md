@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Jeonju Gak';
@@ -12,7 +12,7 @@ font-family: 'Jeonju Gak';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/JeonjuGak/JeonjuGak.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/JeonjuGak/JeonjuGak.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -61,4 +61,20 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/JeonjuGak/JeonjuGak-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/JeonjuGak/JeonjuGak-Bold.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+[전주완판본체 지적 재산권에 대한 안내] 
+ 
+① 전주완판본체 6종에 대한 지적 재산권은 ‘전주시청’에 있습니다. 
+ 
+② 전주완판본체는 개인 및 기업 사용자에게 무료로 제공되며, 모든 출판물과 저작물에서 자유롭게 사용이 가능합니다. 
+ 
+단, 저작권 보호 문화를 위해 글꼴의 사용시 글꼴 출처를 표기하는 것을 권장합니다. 
+ 
+③ 사용자들은 전주완판본체를 자유롭게 배포할 수 있으나, 상업적인 목적으로는 배포 및 수정할 수 없습니다.
 ```
